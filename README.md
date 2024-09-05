@@ -9,14 +9,13 @@
 •	⚡ Fun fact : J'ai une passion pour les jeux vidéo en réseau, ce qui m'a naturellement conduit à m'intéresser aux infrastructures réseau et à leur fonctionnement.
 </b>
 
-## 🔭 Intérêts :
+### 🔭 Intérêts :
 <b>
 •	👀 Je suis intéressé par les réseaux, la cybersécurité, l'administration système, et le développement de solutions informatiques.
 </b>
 
 ### 🤝 Collaboration :
 <b>
-
 •	💞️ Je cherche à collaborer sur : Projets open source liés à la sécurité réseau, l'automatisation des systèmes, et tout projet dans le domaine IT pour acquérir plus d'expérience.
 </b>
 
