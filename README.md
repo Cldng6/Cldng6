@@ -2,15 +2,11 @@
 ## 💻 À propos de moi :
 <b>
     •	🌱 Formation : Actuellement en première année de Technicien Supérieur en Systèmes et Réseaux (BAC+2). J'apprends à gérer des infrastructures réseaux, à administrer des serveurs et à sécuriser des systèmes informatiques.
-</b>
 
-<b>
     •	😄 Pronoms : Il/Lui
-</b>
 
-<b>
     •	⚡ Fun fact : J'ai une passion pour les jeux vidéo en réseau, ce qui m'a naturellement conduit à m'intéresser aux infrastructures réseau et à leur fonctionnement.
-</b>
+
 
 ## 🔭 Intérêts :
 
@@ -21,9 +17,10 @@
     •	💞️ Je cherche à collaborer sur : Projets open source liés à la sécurité réseau, l'automatisation des systèmes, et tout projet dans le domaine IT pour acquérir plus d'expérience.
 
 ## 📫 Me contacté :
-<b>
+
     •	Email : claudengundoli@gmail.com
     •	LinkedIn : www.linkedin.com/in/cld-ng
+
 </b>
 
 
