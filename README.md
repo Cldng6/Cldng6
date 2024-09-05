@@ -22,8 +22,8 @@
 ## 📫 Me contacté :
 
 <b>
-        Email : claudengundoli@gmail.com
-        LinkedIn : www.linkedin.com/in/cld-ng
+    - Email : claudengundoli@gmail.com
+    - LinkedIn : www.linkedin.com/in/cld-ng
 </b>
 
 <!---
