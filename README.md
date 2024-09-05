@@ -4,9 +4,9 @@
     •	🌱 Formation : Actuellement en première année de Technicien Supérieur en Systèmes et Réseaux (BAC+2). J'apprends à gérer des infrastructures réseaux, à administrer des serveurs et à sécuriser des systèmes informatiques. <br>
 
     •	😄 Pronoms : Il/Lui
-<br>
+##
     •	⚡ Fun fact : J'ai une passion pour les jeux vidéo en réseau, ce qui m'a naturellement conduit à m'intéresser aux infrastructures réseau et à leur fonctionnement.
-<br>
+##
 </b>
 
 ## 🔭 Intérêts :
