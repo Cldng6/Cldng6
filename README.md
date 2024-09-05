@@ -13,14 +13,12 @@
 </b>
 
 ## 🔭 Intérêts :
-<b>
+
     •	👀 Je suis intéressé par les réseaux, la cybersécurité, l'administration système, et le développement de solutions informatiques.
-</b>
 
 ## 🤝 Collaboration :
-<b>
+
     •	💞️ Je cherche à collaborer sur : Projets open source liés à la sécurité réseau, l'automatisation des systèmes, et tout projet dans le domaine IT pour acquérir plus d'expérience.
-</b>
 
 ## 📫 Me contacté :
 <b>
