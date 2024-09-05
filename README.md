@@ -10,7 +10,9 @@
 <br>
         ⚡ Diplôme Technicien Réseaux IP, ce qui m'a naturellement conduit à m'intéresser aux infrastructures réseau et à leur fonctionnement.
 </b>
+
 ## 🔭 Intérêts :
+
 <b>
         👀 Je suis intéressé par les réseaux, la cybersécurité, l'administration système, et le développement de solutions informatiques.
 </b>
