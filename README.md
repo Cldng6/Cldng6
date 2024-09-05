@@ -23,6 +23,7 @@
 
 <b>
     - Email : claudengundoli@gmail.com
+<br>
     - LinkedIn : www.linkedin.com/in/cld-ng
 </b>
 
