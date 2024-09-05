@@ -1,12 +1,16 @@
 # Bienvenue sur mon profil
 ## 👋 @Cldng6
 
-    - 👀 Je suis intéressé par les réseaux, la cybersécurité, l'administration système, et le développement de solutions informatiques.
+    - 👀 Je suis intéressé par les réseaux, la cybersécurité,
+    l'administration système, et le développement de solutions informatiques.
 
-    - 🌱 Actuellement en première année de Technicien Supérieur en Systèmes et Réseaux (BAC+2), j'apprends à gérer des infrastructures réseaux, à administrer des serveurs, et à sécuriser des systèmes informatiques.
-    - 💞️ Je cherche à collaborer sur des projets open source liés à la sécurité réseau, l'automatisation des systèmes, et tout projet qui me permettrait d'acquérir plus d'expérience dans le domaine IT.
+    - 🌱 Actuellement en première année de Technicien Supérieur en Systèmes et Réseaux (BAC+2),
+    j'apprends à gérer des infrastructures réseaux, à administrer des serveurs, et à sécuriser des systèmes informatiques.
 
-    - 📫 Comment me contacter : Vous pouvez me joindre via mon email ou sur LinkedIn (lien de ton profil LinkedIn).
+    - 💞️ Je cherche à collaborer sur des projets open source liés à la sécurité réseau,
+    l'automatisation des systèmes, et tout projet qui me permettrait d'acquérir plus d'expérience dans le domaine IT.
+
+    - 📫 Comment me contacter : Vous pouvez me joindre via mon email ou sur LinkedIn (https://www.linkedin.com/in/cld-ng/).
 
     - 😄 Pronoms : Il/Lui
 
