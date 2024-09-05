@@ -1,15 +1,32 @@
 
 
-# Bienvenue sur mon profil
-## 👋 @Cldng6
+#Bienvenue sur mon profil 
+##👋 @Cldng6
+### 💻 À propos de moi :
 <b>
-    - 👀 Je suis intéressé par les réseaux, la cybersécurité, l'administration système, et le développement de solutions informatiques. <br>
-    - 🌱 Actuellement en première année de Technicien Supérieur en Systèmes et Réseaux (BAC+2), j'apprends à gérer des infrastructures réseaux, à administrer des serveurs, et à sécuriser des systèmes informatiques. <br>
-    - 💞️ Je cherche à collaborer sur des projets open source liés à la sécurité réseau, l'automatisation des systèmes, et tout projet qui me permettrait d'acquérir plus d'expérience dans le domaine IT. <br>
-    - 📫 Comment me contacter : Vous pouvez me joindre sur LinkedIn (https://www.linkedin.com/in/cld-ng/). <br>
-    - 😄 Pronoms : Il/Lui <br>
-    - ⚡ Fun fact : Titulaire de Bac Technicien Réseau IP, ce qui m'a naturellement conduit à m'intéresser aux infrastructures réseau et à leur fonctionnement. <br>
+•	🌱 Formation : Actuellement en première année de Technicien Supérieur en Systèmes et Réseaux (BAC+2). J'apprends à gérer des infrastructures réseaux, à administrer des serveurs et à sécuriser des systèmes informatiques.
+•	😄 Pronoms : Il/Lui
+•	⚡ Fun fact : J'ai une passion pour les jeux vidéo en réseau, ce qui m'a naturellement conduit à m'intéresser aux infrastructures réseau et à leur fonctionnement.
 </b>
+
+## 🔭 Intérêts :
+<b>
+•	👀 Je suis intéressé par les réseaux, la cybersécurité, l'administration système, et le développement de solutions informatiques.
+</b>
+
+### 🤝 Collaboration :
+<b>
+
+•	💞️ Je cherche à collaborer sur : Projets open source liés à la sécurité réseau, l'automatisation des systèmes, et tout projet dans le domaine IT pour acquérir plus d'expérience.
+</b>
+
+### 📫 Me contacté :
+<b>
+•	Email : claudengundoli@gmail.com
+•	LinkedIn : www.linkedin.com/in/cld-ng
+</b>
+
+
 
 <!---
     >   git add .
