@@ -26,7 +26,7 @@
 ## 📫 Me contacté :
 
 <b>
-    - Email : claudengundoli@gmail.com
+    - Web : https://www.jercgo.com/
 <br>
     - LinkedIn : www.linkedin.com/in/cld-ng
 </b>
