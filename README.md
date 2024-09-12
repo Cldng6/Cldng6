@@ -2,19 +2,20 @@
 
 ## 💻 À propos de moi :
 <b>
-        🌱 Formation : Actuellement en première année de Technicien Supérieur en Systèmes et Réseaux (BAC+2). J'apprends à gérer des infrastructures réseaux, à administrer des serveurs et à sécuriser des systèmes informatiques.
+        🌱 Formation : Recherche de contrat d'appretissage Technicien Supérieur en Systèmes et Réseaux (BAC+2). Gérer les infrastructures réseaux, à administrer des serveurs et à sécuriser des systèmes informatiques.
 
 <br>
-        😄 Pronoms : Il/Lui
-
+        😄 Homme
 <br>
-        ⚡ Diplôme Technicien Réseaux IP, ce qui m'a naturellement conduit à m'intéresser aux infrastructures réseau et à leur fonctionnement.
+        ⚡ Titre  : Technicien Réseaux Informatique BAC Pro...
 </b>
 
 ## 🔭 Intérêts :
 
 <b>
         👀 Je suis intéressé par les réseaux, la cybersécurité, l'administration système, et le développement de solutions informatiques.
+        👀 OSINT
+        👀 Guitare
 </b>
 
 ## 🤝 Collaboration :
