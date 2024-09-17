@@ -13,7 +13,7 @@
 
 <b>
         👀 Je suis intéressé par les réseaux, la cybersécurité, l'administration système, et le développement de solutions informatiques.
-<b>        
+<br>        
         👀 OSINT
 <br>
         👀 Guitare
