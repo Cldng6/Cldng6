@@ -22,7 +22,7 @@
 ## 🤝 Collaboration :
 
 <b>
-        💞️ Je cherche à collaborer sur : Projets open source liés à la sécurité réseau, l'automatisation des systèmes, et tout projet dans le domaine IT pour acquérir plus d'expérience.
+        💞️ Je cherche à collaborer sur : Projets open source liés à la sécurité réseau, developement et l'automatisation des systèmes, et tout projet dans le domaine IT pour acquérir plus d'expérience.
 </b>
 
 <!---
