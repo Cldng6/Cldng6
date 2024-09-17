@@ -2,8 +2,7 @@
 
 ## 💻 À propos de moi :
 <b>
-        🌱 Formation : Recherche de contrat d'appretissage Technicien Supérieur en Systèmes et Réseaux (BAC+2). Gérer les infrastructures réseaux, à administrer des serveurs et à sécuriser des systèmes informatiques.
-
+        🌱 
 <br>
         😄 Homme
 <br>
@@ -14,7 +13,9 @@
 
 <b>
         👀 Je suis intéressé par les réseaux, la cybersécurité, l'administration système, et le développement de solutions informatiques.
+<b>        
         👀 OSINT
+<br>
         👀 Guitare
 </b>
 
@@ -22,14 +23,6 @@
 
 <b>
         💞️ Je cherche à collaborer sur : Projets open source liés à la sécurité réseau, l'automatisation des systèmes, et tout projet dans le domaine IT pour acquérir plus d'expérience.
-</b>
-
-## 📫 Me contacté :
-
-<b>
-    - Web : https://www.jercgo.com/
-<br>
-    - LinkedIn : www.linkedin.com/in/cld-ng
 </b>
 
 <!---
