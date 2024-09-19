@@ -12,9 +12,10 @@
         🔭 Objetif  : Technicien Supérieur Systèmes et Réseaux Bac+2
 </b>
 <br>
+
 ## 🔭 Intérêts :
 
-<b>
+<b><br>
         👀 Je suis intéressé par les réseaux, la cybersécurité, l'administration système, et le développement de solutions informatiques.
 <br>        
         👀 OSINT
