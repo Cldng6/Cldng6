@@ -9,9 +9,9 @@
         ⚡ Titre  : Technicien Réseaux Informatique BAC Pro
 </b>
 <br>
-<br>
         🔭 Objetif  : Technicien Supérieur Systèmes et Réseaux Bac+2
 </b>
+<br>
 ## 🔭 Intérêts :
 
 <b>
