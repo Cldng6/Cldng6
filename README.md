@@ -6,9 +6,11 @@
 <br>
         😄 Homme
 <br>
-        ⚡ Titre  : Technicien Réseaux Informatique BAC Pro...
+        ⚡ Titre  : Technicien Réseaux Informatique BAC Pro
 </b>
-
+<br>
+        🔭 Objetif  : Technicien Supérieur Systèmes et Réseaux Bac+2
+</b>
 ## 🔭 Intérêts :
 
 <b>
